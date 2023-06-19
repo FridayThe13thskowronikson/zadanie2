@@ -109,6 +109,9 @@ function App() {
 
 export default App;
 ```
+Lańcuch Github Actions:
+![image](https://github.com/FridayThe13thskowronikson/zadanie2/assets/86267453/6bc906e5-04f7-4fc5-9c01-ec71cb2673f9)
 
+Nie zbadano obrazu pod kątem CVE przez bład
 
 
